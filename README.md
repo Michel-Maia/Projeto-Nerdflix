@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NerdFlix Clone
 
@@ -19,3 +20,7 @@
 - CSS
 - JavaScript
 - Git e GitHub
+=======
+# Projeto Nerdflix 
+Projeto realizado durante Bootcamp HTML Web Developer na plataforma da DIO - Recriando a Interface do Netflix, realizado durante as aulas. 24/11/2021
+>>>>>>> 67b6cd0f66012858a2e314627d1645ad71c7910d
