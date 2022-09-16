@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # NerdFlix Clone
 
@@ -8,8 +7,10 @@
 
 > Plataforma Digital Innovation One
 
- 02 Projeto - Recriando a Interface do Netflix
+ 02 Projeto - Recriando a Interface do Netflix.
 
+Projeto realizado durante Bootcamp HTML Web Developer na plataforma da DIO, realizado durante as aulas. 
+Desenvolvido 24/11/2021
 
 [ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Nerdflix/)
 
@@ -20,7 +21,3 @@
 - CSS
 - JavaScript
 - Git e GitHub
-=======
-# Projeto Nerdflix 
-Projeto realizado durante Bootcamp HTML Web Developer na plataforma da DIO - Recriando a Interface do Netflix, realizado durante as aulas. 24/11/2021
->>>>>>> 67b6cd0f66012858a2e314627d1645ad71c7910d
