@@ -12,7 +12,7 @@
 Projeto realizado durante Bootcamp HTML Web Developer na plataforma da DIO, realizado durante as aulas. 
 Desenvolvido 24/11/2021
 
-[ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Nerdflix/)
+
 
 
  ## Tecnologias 🖥️ 🚀 
