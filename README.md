@@ -21,3 +21,8 @@ Desenvolvido 24/11/2021
 - CSS
 - JavaScript
 - Git e GitHub
+
+
+### Referências img 
+
+https://www.themoviedb.org/ 
